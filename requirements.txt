@@ -1,0 +1,9 @@
+pandas
+numpy
+vaderSentiment
+matplotlib
+transformers
+torch
+scipy
+streamlit
+openpyxl
